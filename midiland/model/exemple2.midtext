@@ -1,0 +1,17 @@
+MThd 0006 00 01     0     0000000 00000000
+/* midtext2bin : hex to bin
+           tracks type  ticks per quarter
+
+	
+
+.guitar, A, black, 1 second
+
+
+Header Chunk
+Chunk Type	length	Data
+4 bytes 
+(ascii)	4 bytes 
+(32-bit binary)	<-- length (= 6 bytes) -->
+16-bit	16-bit	16-bit
+MThd	<length>
+*/

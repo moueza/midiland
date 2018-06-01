@@ -1,0 +1,21 @@
+[comment encoding = UTF-8 /]
+[module midtext2midbin('http://www.eclipse.org/uml2/3.0.0/UML')/]
+
+[template public mainMTL(element : String)]
+	
+	[comment element : OclAny 
+@main import/]
+	[file (element.concat('.java'), false, 'UTF-8')]
+		
+	[/file]
+	
+[/template]
+
+
+mid
+
+[comment]mid[/comment]
+// [protected (e.name)]
+mid
+// [/protected]
+

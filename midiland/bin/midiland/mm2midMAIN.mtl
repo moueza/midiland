@@ -1,0 +1,13 @@
+[comment encoding = UTF-8 /]
+[module mm2midMAIN('http://www.eclipse.org/emf/2002/Ecore')/]
+ 
+[template public mainMTL(element : OclAny)]
+	
+	[comment @main /]
+	[file (element.name.concat('.java'), false, 'UTF-8')]
+		
+	[/file]
+	
+[/template]
+
+mid
