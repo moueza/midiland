@@ -9,4 +9,4 @@ UML graphic to .uml (Ecore Modelling project): http://www.eclipse.org/ecoretools
 (So for 1)parallelism for Ocaml
 2).uml To svg generation of music scores)]
 
-.uml to txt by .mtl Acceleo(M2T model to text)https://github.com/moueza/acceleo-webpage
+.ecore (.uml) to txt by .mtl Acceleo(M2T model to text)https://github.com/moueza/acceleo-webpage
