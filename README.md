@@ -13,3 +13,5 @@ UML graphic to .uml (Ecore Modelling project): http://www.eclipse.org/ecoretools
 
 
 Sum up : Ecore -> Acceleo
+
+Transformation language fr MIDI : https://www.cs.nmsu.edu/~rth/publications/miditrans.pdf
