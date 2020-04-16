@@ -35,3 +35,5 @@ Sum up : Ecore -> Acceleo
 
 
 ( Transformation language fr MIDI : https://www.cs.nmsu.edu/~rth/publications/miditrans.pdf )
+
+From MIDI-HOWTO.pdf : links : https://www.google.com/search?q=ccrma-www.stanford.edu+%2Flinuxmidi%2F&oq=ccrma-www.stanford.edu++%2Flinuxmidi%2F&aqs=chrome..69i57.13043j0j4&sourceid=chrome&ie=UTF-8 .Write software :  https://ccrma.stanford.edu/~craig/articles/linuxmidi/
